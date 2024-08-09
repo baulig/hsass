@@ -1,7 +1,9 @@
-resolver: lts-15.5
+resolver: lts-22.32
 packages:
 - '.'
 extra-deps:
-- hlibsass-0.1.9.0
+- git: https://github.com/baulig/hlibsass.git
+  commit: 25686fcfddfba9c9adde795a46eb342b75071f2e
+
 flags: {}
 extra-package-dbs: []

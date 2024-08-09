@@ -5,15 +5,19 @@
 
 packages:
 - completed:
-    hackage: hlibsass-0.1.9.0@sha256:a506590771134569cf308498bcc62604b81f8a2beb885d11db058fd0d7bcd75d,2564
+    commit: 25686fcfddfba9c9adde795a46eb342b75071f2e
+    git: https://github.com/baulig/hlibsass.git
+    name: hlibsass
     pantry-tree:
-      size: 10549
-      sha256: c47fdf9abd68f9cd23246904948fa2caa8643de746efd03350682d097fc453ab
+      sha256: 733374514e19cb95739413d4bc20cf93cfcbdd4f3fd4382f948f6e373061a98e
+      size: 18472
+    version: 0.1.10.1
   original:
-    hackage: hlibsass-0.1.9.0
+    commit: 25686fcfddfba9c9adde795a46eb342b75071f2e
+    git: https://github.com/baulig/hlibsass.git
 snapshots:
 - completed:
-    size: 491372
-    url: https://raw.githubusercontent.com/commercialhaskell/stackage-snapshots/master/lts/15/5.yaml
-    sha256: 1b549cfff328040c382a70a84a2087aac8dab6d778bf92f32a93a771a1980dfc
-  original: lts-15.5
+    sha256: 417fa04a2ed8916cdae74c475ff97ac80857fed5000f19dce4f9564b5e635294
+    size: 720000
+    url: https://raw.githubusercontent.com/commercialhaskell/stackage-snapshots/master/lts/22/32.yaml
+  original: lts-22.32
