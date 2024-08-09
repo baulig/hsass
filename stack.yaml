@@ -3,7 +3,7 @@ packages:
 - '.'
 extra-deps:
 - git: https://github.com/baulig/hlibsass.git
-  commit: 25686fcfddfba9c9adde795a46eb342b75071f2e
+  commit: e663cf6744358c6802f1a83c56bfe902f396d04e
 
 flags: {}
 extra-package-dbs: []
